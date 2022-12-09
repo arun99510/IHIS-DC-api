@@ -7,5 +7,5 @@ public class CitienPlansBinding {
 
 	private Integer citizenAppid;
 	private String planName;
-	
+	private String dummy;
 }
